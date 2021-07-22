@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=rsaEncryptDecrypt
-comment1.params=inputText\ publicKey
-comment1.target=byte[]\ encrypt(java.lang.String,\ java.security.PublicKey)
-comment2.params=cipherTextArray\ privateKey
-comment2.target=java.lang.String\ decrypt(byte[],\ java.security.PrivateKey)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
